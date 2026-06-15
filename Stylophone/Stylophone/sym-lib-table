@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TL974IN")(type "KiCad")(uri "${KIPRJMOD}/TL974IN.kicad_sym")(options "")(descr ""))
+  (lib (name "MCP6489-E/SL")(type "KiCad")(uri "C:/Users/VikeshSubramanian/OneDrive - Endeavour Energy/Documents/Hardware/Stylophone/Libraries/MCP6489-E-SL/2026-06-09_13-59-13.kicad_sym")(options "")(descr ""))
+  (lib (name "TPM8837C-SOR1")(type "KiCad")(uri "C:/Users/VikeshSubramanian/OneDrive - Endeavour Energy/Documents/Hardware/Stylophone/Libraries/TPM8837C-SOR1/2026-06-10_14-47-31.kicad_sym")(options "")(descr ""))
+)
